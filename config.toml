@@ -33,21 +33,25 @@ theme = "minimal-bootstrap-hugo-theme"
 
 [menu]
   [[menu.nav]]
-  name = "Posts"
-  url = "/"
+  name = "Shuyao Li"
+  url = "#"
   weight = 1
   [[menu.nav]]
-  name = "Tags"
-  url = "/tags/"
+  name = "About"
+  url = "#about"
   weight = 2
   [[menu.nav]]
-  name = "About"
-  url = "/about/"
+  name = "Research"
+  url = "#research"
   weight = 3
   [[menu.nav]]
-  name = "RSS"
-  url = "/index.xml"
+  name = "Teaching"
+  url = "#teaching"
   weight = 4
+  [[menu.nav]]
+  name = "Misc"
+  url = "#misc"
+  weight = 5
 
 [markup]
   defaultMarkdownHandler = "goldmark"
