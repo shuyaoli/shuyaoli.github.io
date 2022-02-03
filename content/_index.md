@@ -4,7 +4,7 @@ date: "2022-02-02"
 ---
 
 ### About
-I am a second year PhD student in Computer Sciences at University of Wisconsin, Madison, advised by Professor Stephen Wright and Professor Jelena Diakonikolas. Prior to UW Madison, I obtained my Bachelor of Science in Mathematics from the University of Hong Kong. 
+I am a second year PhD student in Computer Sciences at University of Wisconsin, Madison, advised by Prof. Stephen Wright and Prof. Jelena Diakonikolas. Prior to UW Madison, I obtained my Bachelor of Science in Mathematics from the University of Hong Kong in 2020. I finished my senior thesis under the supervision of Prof. Xiaoming Yuan. I spent a wonderful summer at UCLA in 2019 working with Prof. Ernest Ryu. 
 
 ### Research
 

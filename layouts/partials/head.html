@@ -29,10 +29,10 @@
   <meta name="theme-color" content="{{ .Site.Params.faviconThemeColor }}">
 
   {{ $bootstrapCss := "css/bootstrap.min.css" }}
-  <link rel="stylesheet" href="{{ $bootstrapCss | absURL }}" />
-
+  <link rel="stylesheet" href="{{ $bootstrapCss | absURL }}" media="screen"/>
+<!-- 
   {{ $bootstrapResponsiveCss := "css/bootstrap-responsive.min.css" }}
-  <link rel="stylesheet" href="{{ $bootstrapResponsiveCss | absURL }}" />
+  <link rel="stylesheet" href="{{ $bootstrapResponsiveCss | absURL }}" /> -->
 
   {{ if .IsHome }}
   {{ $homepage := "Home" }}
