@@ -1,0 +1,23 @@
+.voffset1 { margin-top: 10px; }
+
+html { scroll-padding-top: 54px; }
+
+body {
+  padding-top: 60px;
+}
+
+section {
+	padding-top:40px;
+	margin-top:-40px;
+}
+
+
+a.greyed {
+	 color:#999;
+}
+a.greyed:hover {
+	       text-decoration:none;
+}
+a.greyed:active {
+		text-decoration:none;
+} 
