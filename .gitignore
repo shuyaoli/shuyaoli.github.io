@@ -1,3 +1,4 @@
 .DS_STORE
 .hugo_build.lock
 public/
+themes/minimal-bootstrap-hugo-theme/*
