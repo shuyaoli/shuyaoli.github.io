@@ -7,6 +7,29 @@
     {{ end }}
   </header> -->
   <div class="homepage-content">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-2">
+	        <div class="photo">
+	        <img id="picture" src="headshot.jpeg" style="width:176px;height:220px;" class="photo_pic"/>
+	        </div>
+	      </div>
+        <div class="col-md-33">
+          <h3>Shuyao Li</h3>
+          <font size="3">
+          <p>PhD Student <br>
+            Department of Computer Sciences<br>
+          University of Wisconsin, Madison
+          </p>
+          <p>
+          [first_name] DOT [lastname] AT wisc DOT edu
+          </p>
+          My <a href="CV.pdf">CV</a> (last updated 2/2/2022)
+          </font>
+	      </div>
+      </div>
+
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
   </div>
