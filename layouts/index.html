@@ -1,27 +1,16 @@
-{{- define "main" -}}
-
-{{ $homepage := "Home" }}
-{{ with .Site.Menus.nav }}
-  {{ range first 1 . }}
-    {{ $homepage = .Name }}
-  {{ end }}
-{{ end }}
-<h1>{{ $homepage }} testing</h1>
-
-{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{ range $pages.ByPublishDate.Reverse }}
-  <p>
-    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-    {{ $customDateFormat := "January 2, 2006" }}
-    {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
-    <br>
-    <small class="text-secondary">{{ .PublishDate.Format $customDateFormat }}</small>
-    {{ partial "tags" . }}
-    {{ if eq .Site.Params.showPostSummary true }}
-    <br>
-    {{ .Summary }}
+{{ define "main" }}
+<main aria-role="main">
+  <!-- <header class="homepage-header">
+    <h1>{{.Title}}</h1>
+    {{ with .Params.subtitle }}
+    <span class="subtitle">{{.}}</span>
     {{ end }}
-  </p>
+  </header> -->
+  <div class="homepage-content">
+    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+    {{.Content}}
+  </div>
+
+</main>
 {{ end }}
 
-{{- end -}}

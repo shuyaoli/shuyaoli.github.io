@@ -12,6 +12,7 @@ theme = "minimal-bootstrap-hugo-theme"
 
 [params]
   description = "Shuyao's personal website"
+  author = "Shuyao Li"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
@@ -33,7 +34,7 @@ theme = "minimal-bootstrap-hugo-theme"
 
 [menu]
   [[menu.nav]]
-  name = "Shuyao Li"
+  name = "Home"
   url = "#"
   weight = 1
   [[menu.nav]]
