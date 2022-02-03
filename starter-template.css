@@ -21,3 +21,8 @@ a.greyed:hover {
 a.greyed:active {
 		text-decoration:none;
 } 
+
+.dark-mode {
+	background-color: black;
+	color: white;
+  }
