@@ -1,5 +1,5 @@
 {{ define "main" }}
-<main aria-role="main">
+<main role="main">
   <!-- <header class="homepage-header">
     <h1>{{.Title}}</h1>
     {{ with .Params.subtitle }}
@@ -7,16 +7,13 @@
     {{ end }}
   </header> -->
   <div class="homepage-content">
-
       <div class="row">
         <div class="col-md-3">
-	        <div class="photo">
-          <a href="headshot.jpg"></a>
-	        <img id="picture" src="headshot.jpeg" style="max-height:250px" class="img-responsive"/>
-	        </div>
-	      </div>
-        <div class="col-md-7">
-          <!-- <div class="clearfix visible-xs-block"></div> -->
+          <div class="photo">
+            <img id="picture" src="headshot.jpeg" alt="headshot" style="max-height:300px" class="img-fluid" />
+          </div>
+        </div>        
+        <div class="col-md-8">
           <h2>Shuyao Li<span style="font-family:STFangsong; font-size:20pt"> (李书尧)</span></h2>
           <!-- <div id="pronounceLink" style="display:block;"><p><a href="#" onclick="$('#pronounce').toggle(); return false;"><i>How to pronounce?</i></a></p></div>
           <div id="pronounce" style="display:none;" class="alert">
@@ -28,33 +25,33 @@
           </div> -->
           <p>
             PhD Student <br>
-            Department of Computer Sciences<br>
+            School of Computer, Data & Information Sciences<br>
             University of Wisconsin, Madison
           </p>
-          <p>
-          Email: <tt>
-<span id="email-placeholder">Email me</span>
-<script>
-  document.addEventListener('DOMContentLoaded', (event) => { function
-    decodeEntities(encodedString) { var textArea =
-    document.createElement('textarea'); textArea.innerHTML = encodedString;
-    return textArea.value; }
-    
-    var user =
-    decodeEntities('&#115;&#104;&#117;&#121;&#97;&#111;&#46;&#108;&#105;'); var
-    domain = decodeEntities('&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;');
-    var element = document.getElementById('email-placeholder');
-    element.textContent = user + '@' + domain; });
-</script>
-</tt>
+          <p> Email: 
+            <tt>
+              <span id="email-placeholder">Email me</span>
+              <script>
+                document.addEventListener('DOMContentLoaded', (event) => { function
+                  decodeEntities(encodedString) { var textArea =
+                  document.createElement('textarea'); textArea.innerHTML = encodedString;
+                  return textArea.value; }
+                  
+                  var user =
+                  decodeEntities('&#115;&#104;&#117;&#121;&#97;&#111;&#46;&#108;&#105;'); var
+                  domain = decodeEntities('&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;');
+                  var element = document.getElementById('email-placeholder');
+                  element.textContent = user + '@' + domain; });
+              </script>
+            </tt>
           </p>
-	      </div>
+        </div>
       </div>
-
+      <div style="margin-top: 10px;">
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
       </div>
-
+  </div>
 </main>
 {{ end }}
 
