@@ -49,10 +49,6 @@ theme = "minimal-bootstrap-hugo-theme"
   name = "Teaching"
   url = "#teaching"
   weight = 4
-  [[menu.nav]]
-  name = "Misc"
-  url = "#misc"
-  weight = 5
 
 [markup]
   defaultMarkdownHandler = "goldmark"
