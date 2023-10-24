@@ -5,6 +5,8 @@ date: "2022-02-02"
 
 #### About Me
 I am currently pursuing my Ph.D. in Computer Science at the University of Wisconsin-Madison. I have the privilege of being co-advised by Profs. Stephen Wright and Jelena Diakonikolas. I obtained my B.S. in Mathematics from the University of Hong Kong in 2020, where I completed my senior thesis under supervision of Prof. Xiaoming Yuan. I spent a wonderful summer at UCLA in 2019 working with Prof. Ernest Ryu. 
+<br/>
+<br/>
 
 #### Research
 My research interests are in optimization and machine learning theory. I currently focus on developing machine learning algorithms that uphold various forms of robustness. 
