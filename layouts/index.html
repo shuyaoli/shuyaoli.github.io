@@ -32,9 +32,22 @@
             University of Wisconsin, Madison
           </p>
           <p>
-          Email: [firstname] DOT [lastname] AT wisc DOT edu
+          Email: <tt>
+<span id="email-placeholder">Email me</span>
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => { function
+    decodeEntities(encodedString) { var textArea =
+    document.createElement('textarea'); textArea.innerHTML = encodedString;
+    return textArea.value; }
+    
+    var user =
+    decodeEntities('&#115;&#104;&#117;&#121;&#97;&#111;&#46;&#108;&#105;'); var
+    domain = decodeEntities('&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;');
+    var element = document.getElementById('email-placeholder');
+    element.textContent = user + '@' + domain; });
+</script>
+</tt>
           </p>
-          My <a href="CV.pdf">CV</a> (last updated 2/2/2022)
 	      </div>
       </div>
 
