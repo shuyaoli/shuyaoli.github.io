@@ -9,10 +9,9 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Wiscon
 <br/>
 
 #### Research
-My research interests are in optimization and machine learning theory. I currently focus on developing machine learning algorithms that uphold various forms of robustness. 
+My research interest lies in the interplay between optimization and machine learning theory. I currently focus on developing machine learning algorithms that uphold various forms of robustness. 
 
 Here is a list of my publications:
-
 
 - **Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**  
 Shuyao Li, Yu Cheng, Ilias Diakonikolas, Jelena Diakonikolas, Rong Ge, Stephen Wright  
@@ -27,7 +26,12 @@ Manuscript, arXiv coming soon
 #### Teaching 
 - CS 540 Introduction to Artificial Intelligence, Fall 2021, Teaching Assistant
 - CS 540 Introduction to Artificial Intelligence, Summer 2021, Teaching Assistant
+<br/>
+<br/>
 
-
-
-
+#### Misc
+Selected awards:
+- NeurIPS 2023 Scholar Award
+- UW Madison CS Departmental Research Fellowship (Fall 2020–Spring 2021)
+- IFDS RAship (Spring 2022)
+- Outstanding Winner at Mathematical Contest In Modeling (MCM 2017)
