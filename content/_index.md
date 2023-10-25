@@ -32,6 +32,6 @@ Manuscript, arXiv coming soon
 #### Misc
 Selected awards:
 - NeurIPS 2023 Scholar Award
-- UW Madison CS Departmental Research Fellowship (Fall 2020–Spring 2021)
 - IFDS RAship (Spring 2022)
+- UW Madison CS Departmental Research Fellowship (Fall 2020–Spring 2021)
 - Outstanding Winner at Mathematical Contest In Modeling (MCM 2017)
