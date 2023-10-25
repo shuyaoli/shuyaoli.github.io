@@ -11,7 +11,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Wiscon
 #### Research
 My research interests are in optimization and machine learning theory. I currently focus on developing machine learning algorithms that uphold various forms of robustness. 
 
-Here is a list of my publications. 
+Here is a list of my publications:
 
 
 - **Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**  
