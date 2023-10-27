@@ -9,7 +9,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Wiscon
 <br/>
 
 #### Research
-My research interest lies in the interplay between optimization and machine learning theory. I currently focus on developing machine learning algorithms that uphold various forms of robustness. 
+My research interest lies in the interplay between optimization and machine learning. I currently focus on developing machine learning algorithms that uphold various forms of robustness. 
 
 Here is a list of my publications:
 
