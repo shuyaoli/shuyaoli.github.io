@@ -4,7 +4,7 @@ date: "2023-10-24"
 ---
 
 #### About Me
-I am currently pursuing my Ph.D. in Computer Science at the University of Wisconsin-Madison. I have the privilege of being co-advised by Profs. Stephen Wright and Jelena Diakonikolas. I obtained my B.S. in Mathematics from the University of Hong Kong in 2020, where I completed my senior thesis under supervision of Prof. Xiaoming Yuan. I spent a wonderful summer at UCLA in 2019 working with Prof. Ernest Ryu. 
+I am currently pursuing my Ph.D. in Computer Science at the University of Wisconsin-Madison. I have the privilege of being co-advised by Profs. [Stephen Wright](https://pages.cs.wisc.edu/~swright/) and [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/). I obtained my B.S. in Mathematics from the University of Hong Kong in 2020, where I completed my senior thesis under supervision of Prof. [Xiaoming Yuan](https://hkumath.hku.hk/~xmyuan/). I spent a wonderful summer at UCLA in 2019 working with Prof. [Ernest Ryu](https://ernestryu.com/). 
 <br/>
 <br/>
 
@@ -19,7 +19,7 @@ To appear, NeurIPS 2023, arXiv coming soon
 
 - **A Randomized Algorithm for Nonconvex Minimization With Inexact Evaluations and Complexity Guarantees**  
 Shuyao Li, Stephen Wright  
-Manuscript, arXiv coming soon
+[[arXiv](https://arxiv.org/abs/2310.18841)] [[slide](op23.pdf)]
 <br/>
 <br/>
 
