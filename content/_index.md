@@ -19,7 +19,7 @@ Manuscript, arXiv coming soon
 
 - **Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**  
 Shuyao Li, Yu Cheng, Ilias Diakonikolas, Jelena Diakonikolas, Rong Ge, Stephen Wright  
-To appear, [NeurIPS 2023](https://openreview.net/forum?id=2ccH4zjKVs), arXiv coming soon
+In Proc. NeurIPS 2023 [[arXiv](https://openreview.net/forum?id=2ccH4zjKVs)]
 
 - **A Randomized Algorithm for Nonconvex Minimization With Inexact Evaluations and Complexity Guarantees**  
 Shuyao Li, Stephen Wright  
