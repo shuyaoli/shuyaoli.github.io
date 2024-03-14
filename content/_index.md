@@ -13,10 +13,6 @@ My research interest lies in the interplay between optimization and machine lear
 
 Here is a list of my publications:
 
-- **Robust ReLU Learning Under Distributional Shifts**  
-Shuyao Li, Sushrut Karmalkar, Ilias Diakonikolas, Jelena Diakonikolas  
-Manuscript, arXiv coming soon
-
 - **Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**  
 Shuyao Li, Yu Cheng, Ilias Diakonikolas, Jelena Diakonikolas, Rong Ge, Stephen Wright  
 In Proc. NeurIPS 2023 [[arXiv](https://openreview.net/forum?id=2ccH4zjKVs)]
