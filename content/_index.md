@@ -15,7 +15,7 @@ Here is a list of my publications:
 
 - **Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**  
 Shuyao Li, Yu Cheng, Ilias Diakonikolas, Jelena Diakonikolas, Rong Ge, Stephen Wright  
-In Proc. NeurIPS 2023 [[arXiv](https://openreview.net/forum?id=2ccH4zjKVs)]
+In Proc. NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2403.10547)]
 
 - **A Randomized Algorithm for Nonconvex Minimization With Inexact Evaluations and Complexity Guarantees**  
 Shuyao Li, Stephen Wright  
