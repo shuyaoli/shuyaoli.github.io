@@ -12,6 +12,9 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Wiscon
 My research interest lies in the interplay between optimization and machine learning. I currently focus on developing machine learning algorithms that uphold various forms of robustness. 
 
 Here is a list of my publications:
+- **Learning a Single Neuron Robustly to Distributional Shifts and Adversarial Label Noise**  
+Shuyao Li\*, Sushrut Karmalkar\*, Ilias Diakonikolas, Jelena Diakonikolas  
+Accepted to NeurIPS 2024
 
 - **Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**  
 Shuyao Li, Yu Cheng, Ilias Diakonikolas, Jelena Diakonikolas, Rong Ge, Stephen Wright  
