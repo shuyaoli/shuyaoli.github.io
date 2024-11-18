@@ -14,7 +14,7 @@ My research interest lies in the interplay between optimization and machine lear
 Here is a list of my publications:
 - **Learning a Single Neuron Robustly to Distributional Shifts and Adversarial Label Noise**  
 Shuyao Li\*, Sushrut Karmalkar\*, Ilias Diakonikolas, Jelena Diakonikolas  
-Accepted to NeurIPS 2024
+Accepted to NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2411.06697)]
 
 - **Robust Second-Order Nonconvex Optimization and Its Application to Low Rank Matrix Sensing**  
 Shuyao Li, Yu Cheng, Ilias Diakonikolas, Jelena Diakonikolas, Rong Ge, Stephen Wright  
