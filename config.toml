@@ -1,4 +1,4 @@
-baseURL = "https://shuyaoli.github.io"
+baseURL = "https://shuyaoli.snowbarn.org"
 languageCode = "en-us"
 title = "Shuyao Li"
 theme = "minimal-bootstrap-hugo-theme"
