@@ -52,7 +52,7 @@
     {{ end }}
   {{ end }}
   <title>{{ .Site.Title }}</title>
-  <link rel="canonical" href="{{ .Permalink }}" />
+  <link rel="canonical" href='{{ absURL ""}}' />
   {{ else }}
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   {{ end }}
