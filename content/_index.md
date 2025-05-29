@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: "2023-10-24"
+date: "2025-05-28"
 ---
 
 #### About Me
@@ -26,11 +26,6 @@ Shuyao Li, Stephen Wright
 <br/>
 <br/>
 
-#### Teaching 
-- CS 540 Introduction to Artificial Intelligence, Fall 2021, Teaching Assistant
-- CS 540 Introduction to Artificial Intelligence, Summer 2021, Teaching Assistant
-<br/>
-<br/>
 
 #### Misc
 Selected awards:
