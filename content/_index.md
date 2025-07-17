@@ -12,7 +12,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Wiscon
 My research interest lies in the interplay between optimization and learning theory. I currently focus on developing algorithms that uphold various forms of robustness. 
 
 Here is a list of my publications:
-- **Distributionally Robust Optimization with Adversarial Data Contamination**
+- **Distributionally Robust Optimization with Adversarial Data Contamination**  
 Shuyao Li, Ilias Diakonikolas, Jelena Diakonikolas  
 [[arXiv](https://arxiv.org/abs/2507.10718)]
 
