@@ -1,15 +1,15 @@
 ---
 title: "Home"
-date: "2025-07-17"
+date: "2025-09-12"
 ---
 
 #### About Me
-I am currently pursuing my Ph.D. in Computer Science at the University of Wisconsin-Madison. I have the privilege of being co-advised by Profs. [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/) and [Stephen Wright](https://pages.cs.wisc.edu/~swright/). I obtained my B.S. in Mathematics from the University of Hong Kong in 2020, where I completed my senior thesis under supervision of Prof. [Xiaoming Yuan](https://hkumath.hku.hk/~xmyuan/). I spent a wonderful summer at UCLA in 2019 working with Prof. [Ernest Ryu](https://ernestryu.com/). 
+I am a research scientist at Meta. I earned my Ph.D. in Computer Science from the University of Wisconsin-Madison. I had the privilege of being co-advised by Professors [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/) and [Stephen Wright](https://pages.cs.wisc.edu/~swright/). I received my B.S. in Mathematics from the University of Hong Kong in 2020, where I completed my senior thesis under the supervision of Prof. [Xiaoming Yuan](https://hkumath.hku.hk/~xmyuan/). I spent a wonderful summer at UCLA in 2019 working with Prof. [Ernest Ryu](https://ernestryu.com/). 
 <br/>
 <br/>
 
 #### Research
-My research interest lies in the interplay between optimization and learning theory. I currently focus on developing algorithms that uphold various forms of robustness. 
+I am currently working on recommendation systems. My [doctoral research](https://www.proquest.com/docview/3245555001) was at the intersection of optimization and computational learning theory, where I developed algorithms that guarantee various forms of robustness.
 
 Here is a list of my publications:
 - **Distributionally Robust Optimization with Adversarial Data Contamination**  
@@ -26,7 +26,7 @@ In Proc. NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2403.10547)]
 
 - **A Randomized Algorithm for Nonconvex Minimization With Inexact Evaluations and Complexity Guarantees**  
 Shuyao Li, Stephen Wright  
-[[arXiv](https://arxiv.org/abs/2310.18841)] [[slide](op23.pdf)]
+Journal of Optimization Theory and Applications ([JOTA](https://doi.org/10.1007/s10957-025-02817-y)) [[arXiv](https://arxiv.org/abs/2310.18841)]
 <br/>
 <br/>
 
@@ -36,4 +36,4 @@ Selected awards:
 - NeurIPS 2023 Scholar Award
 - IFDS RAship (Spring 2022)
 - UW Madison CS Departmental Research Fellowship (Fall 2020–Spring 2021)
-- Outstanding Winner at Mathematical Contest In Modeling (MCM 2017)
+- Outstanding Winner at Mathematical Contest in Modeling (MCM 2017)
