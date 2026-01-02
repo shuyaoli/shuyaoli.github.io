@@ -12,6 +12,10 @@ I am a research scientist at Meta. I earned my Ph.D. in Computer Science from th
 I am currently working on recommendation systems. My [doctoral research](https://www.proquest.com/docview/3245555001) was at the intersection of optimization and computational learning theory, where I developed algorithms that guarantee various forms of robustness.
 
 Here is a list of my publications:
+- **Outlier-Robust Nonsmooth Stochastic Optimization**  
+Shuyao Li, Stephen Wright, Jelena Diakonikolas  
+Journal of Nonlinear and Variational Analysis ([JNVA](https://jnva.biemdas.com/archives/2929), _A special issue in honor of Prof. Yurii Nesterov's 70th birthday_)  
+
 - **Distributionally Robust Optimization with Adversarial Data Contamination**  
 Shuyao Li, Ilias Diakonikolas, Jelena Diakonikolas  
 [[arXiv](https://arxiv.org/abs/2507.10718)]
