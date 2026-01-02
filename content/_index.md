@@ -9,7 +9,7 @@ I am a research scientist at Meta. I earned my Ph.D. in Computer Science from th
 <br/>
 
 #### Research
-I am currently working on recommendation systems. My [doctoral research](https://www.proquest.com/docview/3245555001) was at the intersection of optimization and computational learning theory, where I developed algorithms that guarantee various forms of robustness.
+I am currently working on recommendation systems. My [doctoral research](https://asset.library.wisc.edu/1711.dl/4ZQIYKU5T4IJV8C/R/file-ebe4b.pdf) was at the intersection of optimization and computational learning theory, where I developed algorithms that guarantee various forms of robustness.
 
 Here is a list of my publications:
 - **Outlier-Robust Nonsmooth Stochastic Optimization**  
