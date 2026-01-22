@@ -14,7 +14,7 @@ I am currently working on recommendation systems. My [doctoral research](https:/
 Here is a list of my publications:
 - **Outlier-Robust Nonsmooth Stochastic Optimization**  
 Shuyao Li, Stephen Wright, Jelena Diakonikolas  
-Journal of Nonlinear and Variational Analysis ([JNVA](https://jnva.biemdas.com/archives/2929), _A special issue in honor of Prof. Yurii Nesterov's 70th birthday_)  
+Journal of Nonlinear and Variational Analysis ([Published](https://jnva.biemdas.com/issues/JNVA2026-2-2.pdf) at [JNVA](https://jnva.biemdas.com/archives/2929), _A special issue in honor of Prof. Yurii Nesterov's 70th birthday_)  
 
 - **Distributionally Robust Optimization with Adversarial Data Contamination**  
 Shuyao Li, Ilias Diakonikolas, Jelena Diakonikolas  
