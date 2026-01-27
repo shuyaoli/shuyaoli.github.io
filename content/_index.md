@@ -12,6 +12,10 @@ I am a research scientist at Meta. I earned my Ph.D. in Computer Science from th
 I am currently working on recommendation systems. My [doctoral research](https://asset.library.wisc.edu/1711.dl/4ZQIYKU5T4IJV8C/R/file-ebe4b.pdf) was at the intersection of optimization and computational learning theory, where I developed algorithms that guarantee various forms of robustness.
 
 Here is a list of my publications:
+- **Robust Learning of a Group DRO Neuron**  
+Guyang Cao, Shuyao Li, Sushrut Karmalkar, Jelena Diakonikolas  
+Accepted to Proc. AISTATS 2026 [[arXiv](https://arxiv.org/abs/2601.18115)]
+
 - **Outlier-Robust Nonsmooth Stochastic Optimization**  
 Shuyao Li, Stephen Wright, Jelena Diakonikolas  
 Journal of Nonlinear and Variational Analysis ([Published](https://jnva.biemdas.com/issues/JNVA2026-2-2.pdf) at [JNVA](https://jnva.biemdas.com/archives/2929), _A special issue in honor of Prof. Yurii Nesterov's 70th birthday_)  
