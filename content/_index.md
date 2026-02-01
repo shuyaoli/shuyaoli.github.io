@@ -42,6 +42,5 @@ Journal of Optimization Theory and Applications ([JOTA](https://doi.org/10.1007/
 #### Misc
 Selected awards:
 - NeurIPS 2023 Scholar Award
-- IFDS RAship (Spring 2022)
 - UW Madison CS Departmental Research Fellowship (Fall 2020–Spring 2021)
 - Outstanding Winner at Mathematical Contest in Modeling (MCM 2017)
