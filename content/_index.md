@@ -18,7 +18,7 @@ Accepted to Proc. AISTATS 2026 [[arXiv](https://arxiv.org/abs/2601.18115)]
 
 - **Outlier-Robust Nonsmooth Stochastic Optimization**  
 Shuyao Li, Stephen Wright, Jelena Diakonikolas  
-Journal of Nonlinear and Variational Analysis ([Published](https://par.nsf.gov/servlets/purl/10657620) at [JNVA](https://jnva.biemdas.com/archives/2929), _A special issue in honor of Prof. Yurii Nesterov's 70th birthday_)  
+Journal of Nonlinear and Variational Analysis ([JNVA](https://jnva.biemdas.com/archives/2929), _A special issue in honor of Prof. Yurii Nesterov's 70th birthday_)  
 
 - **Distributionally Robust Optimization with Adversarial Data Contamination**  
 Shuyao Li, Ilias Diakonikolas, Jelena Diakonikolas  
