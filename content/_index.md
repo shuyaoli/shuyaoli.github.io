@@ -12,9 +12,13 @@ I am a research scientist at Meta. I earned my Ph.D. in Computer Science from th
 I am currently working on recommendation systems. My [doctoral research](https://asset.library.wisc.edu/1711.dl/4ZQIYKU5T4IJV8C/R/file-ebe4b.pdf) was at the intersection of optimization and computational learning theory, where I developed algorithms that guarantee various forms of robustness.
 
 Here is a list of my publications:
+- **OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval**  
+Ziwei Li, Shuyao Li, Xufeng Cai, Xue Zou, Yiming Ma, Huiting Lu, Wujie Yan, Zhichen Zhao, Yang Lu, Zhe Wang, Rui Luo, Zhengyu Su, Dan Zhang, Ji Liu  
+[[arXiv](https://arxiv.org/abs/2607.27475)]
+
 - **Robust Learning of a Group DRO Neuron**  
 Guyang Cao, Shuyao Li, Sushrut Karmalkar, Jelena Diakonikolas  
-Accepted to Proc. AISTATS 2026 [[arXiv](https://arxiv.org/abs/2601.18115)]
+In Proc. AISTATS 2026 [[arXiv](https://arxiv.org/abs/2601.18115)]
 
 - **Outlier-Robust Nonsmooth Stochastic Optimization**  
 Shuyao Li, Stephen Wright, Jelena Diakonikolas  
